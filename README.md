@@ -1,5 +1,5 @@
 ## Hi there 👋
-I have reported in this file the work done as from the attached files. You can follow all our analysis by the results reported.
+Master's student · Data and Computational Mathematics (DCM) 2026
 <!--
 **VanessaGalbiati/VanessaGalbiati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
